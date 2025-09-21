@@ -2,8 +2,7 @@
 
 <img src="https://i.pinimg.com/1200x/e6/b9/c1/e6b9c1decfae8e63c78edf62d1328f3f.jpg" alt="thanhbinh-banner" style="border-radius: 15px;">
 <div align="center">
-  <h1><pre>Hi, I'm 𝕋𝕙𝕒𝕟𝕙𝔹𝕚𝕟𝕙</pre></h1>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I'm+%F0%9D%95%8B%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%99%F0%9D%94%B9%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%99" alt="Typing SVG" /></a>
 
 Among thousands of people, I may be small,
 
