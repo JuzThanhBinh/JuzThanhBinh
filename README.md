@@ -10,7 +10,7 @@ But unique, unchangeable!
 
 ### 🌐 Profile
 
-<a href="https://juzthanhbinh.keusug.com/" target="_blank">
+<a href="https://juzthanhbinh.kesug.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visit_My_Profile-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
