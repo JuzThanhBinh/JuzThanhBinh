@@ -8,13 +8,14 @@ Among thousands of people, I may be small,
 
 But unique, unchangeable!
 
-### 🌐 My Website
+### 🌐 Profile
 
 <a href="https://juzthanhbinh.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit_My_Profile-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-### My Skill ✍
+
+### 👉 My Skill 
 
 
   [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,cpp,py,php,html,css,js&perline=3&theme=dark)](https://skillicons.dev)
